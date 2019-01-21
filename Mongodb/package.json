@@ -1,0 +1,16 @@
+{
+  "name": "Mongodb",
+  "version": "1.0.0",
+  "description": "Course files for the MongoDB tutorials playlist on The Net Ninja YouTube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.4.3"
+  }
+}
